@@ -1,3 +1,6 @@
+#This code will find out how much money you make and evaluate whether you
+#are using your finances apropriately
+
 salary = int(input("How much money do you make?"))
 spending = int (input("How much do you spend per month?"))
 saving = salary - spending
